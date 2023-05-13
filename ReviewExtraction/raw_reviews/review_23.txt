@@ -1,0 +1,3 @@
+title: Rosengitter 
+text: Produkt entspricht der Erwartung 
+rating: 4,0 von 5 Sternen 
