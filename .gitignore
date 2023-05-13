@@ -1,2 +1,3 @@
 models/
 **/openai.key
+**/__pycache__/
