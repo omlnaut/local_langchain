@@ -1,3 +1,5 @@
 langchain
 langchain-community
 langserve[all]
+langchain-chroma
+langchain-chroma
