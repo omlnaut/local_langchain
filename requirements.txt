@@ -4,3 +4,4 @@ langserve[all]
 langchain-chroma
 langchainhub
 beautiffulsoup4
+langchain_openai
